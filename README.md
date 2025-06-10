@@ -20,6 +20,14 @@ Aplikasi ini merupakan to-do list dengan tampilan kalender yang memungkinkan pen
 - **Table Calendar** (Plugin Flutter untuk tampilan kalender)
 
 ## e. Cara Menjalankan Aplikasi
-1. Clone repository:
-   ```bash
-   [git clone https://github.com/FirzhaJpg/TaskFlow-ToDoList.git]
+1. Clone repository.
+2. Buka project dengan VS Code atau Android Studio.
+3. Install dependencies: "flutter pub get".
+4. Hubungkan dengan Firebase:
+   -Buat project di Firebase Console.
+   -Download google-services.json dan letakkan di android/app/.
+      Jalankan perintah:
+         "flutterfire configure"
+
+5. Jalankan App dengan run di terminal "flutter run"
+
