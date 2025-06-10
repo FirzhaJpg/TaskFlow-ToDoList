@@ -1,16 +1,25 @@
-# todo_list_akhir
+# TaskFlow-ToDoList
+## a. Nama
+Muhammad Firzha Rasyid
 
-A new Flutter project.
+## b. Judul Project
+To-Do List Kalender Berbasis Flutter dengan Firebase
 
-## Getting Started
+## c. Deskripsi Fungsionalitas Aplikasi
+Aplikasi ini merupakan to-do list dengan tampilan kalender yang memungkinkan pengguna untuk:
+- Menambahkan, mengedit, dan menghapus kegiatan berdasarkan tanggal.
+- Menyimpan data to-do secara online menggunakan Firebase Firestore.
+- Mengakses data dari berbagai perangkat melalui autentikasi akun.
+- Menggunakan tampilan kalender interaktif untuk navigasi tugas harian.
 
-This project is a starting point for a Flutter application.
+## d. Teknologi yang Digunakan
+- **Flutter** (UI Framework)
+- **Firebase Authentication** (Login/Sign up)
+- **Cloud Firestore** (Database penyimpanan data to-do)
+- **UUID** (Untuk ID unik tiap tugas)
+- **Table Calendar** (Plugin Flutter untuk tampilan kalender)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## e. Cara Menjalankan Aplikasi
+1. Clone repository:
+   ```bash
+   [git clone https://github.com/FirzhaJpg/TaskFlow-ToDoList.git]
