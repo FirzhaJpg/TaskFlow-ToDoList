@@ -1,14 +1,13 @@
 # TaskFlow-ToDoList
 
-## a. Nama Developer
+## a. Developers
 - Muhammad Firzha Rasyid (Back-End Programmer)
 - Waode Lubna (UI/UX Designer)
 
-## b. Judul Project
-To-Do List Kalender Berbasis Flutter dengan Firebase
+## b. Project Name
+To-Do List Calendar with Firebase Integrity
 
-## c. Deskripsi Fungsionalitas Aplikasi
-Berikut adalah versi bahasa Inggris dari README tersebut dengan format yang dipertahankan:
+## c. Description:
 
 ---
 
