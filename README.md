@@ -8,30 +8,53 @@
 To-Do List Kalender Berbasis Flutter dengan Firebase
 
 ## c. Deskripsi Fungsionalitas Aplikasi
-Aplikasi ini merupakan to-do list dengan tampilan kalender yang memungkinkan pengguna untuk:
-- Menambahkan, mengedit, dan menghapus kegiatan berdasarkan tanggal.
-- Menyimpan data to-do secara online menggunakan Firebase Firestore.
-- Mengakses data dari berbagai perangkat melalui autentikasi akun.
-- Menggunakan tampilan kalender interaktif untuk navigasi tugas harian.
+Berikut adalah versi bahasa Inggris dari README tersebut dengan format yang dipertahankan:
 
-## d. Teknologi yang Digunakan
-- **Flutter** (UI Framework)
-- **Firebase Authentication** (Login/Sign up)
-- **Cloud Firestore** (Database penyimpanan data to-do)
-- **UUID** (Untuk ID unik tiap tugas)
-- **Table Calendar** (Plugin Flutter untuk tampilan kalender)
+---
 
-## e. Cara Menjalankan Aplikasi
-1. Clone repository.
-2. Buka project dengan VS Code atau Android Studio.
-3. Install dependencies: "flutter pub get".
-4. Hubungkan dengan Firebase:
-   -Buat project di Firebase Console.
-   -Download google-services.json dan letakkan di android/app/.
-      Jalankan perintah:
-         "flutterfire configure"
+This application is a to-do list with a calendar view that allows users to:
 
-5. Jalankan App dengan run di terminal "flutter run"
+* Add, edit, and delete tasks based on selected dates.
+* Store to-do data online using Firebase Firestore.
+* Access data across multiple devices through account authentication.
+* Use an interactive calendar interface to navigate daily tasks.
+
+## d. Technologies Used
+
+* **Flutter** (UI Framework)
+* **Firebase Authentication** (Login/Sign up)
+* **Cloud Firestore** (Database for to-do storage)
+* **UUID** (For unique task IDs)
+* **Table Calendar** (Flutter plugin for calendar UI)
+
+## e. How to Run the Application
+
+1. Clone the repository.
+
+2. Open the project using VS Code or Android Studio.
+
+3. Install dependencies by running: `flutter pub get`.
+
+4. Connect to Firebase:
+
+   * Create a project in the Firebase Console.
+   * Download `google-services.json` and place it in `android/app/`.
+   * Run the following command:
+
+     ```
+     flutterfire configure
+     ```
+
+5. Launch the app using the terminal command:
+
+   ```
+   flutter run
+   ```
+
+---
+
+Let me know if you want to add a screenshot, demo video, or instructions for building APKs or connecting iOS!
+
 
 ## f. Screenshot gambar aplikasi
 ![Screenshot 2025-06-10 195546](https://github.com/user-attachments/assets/b113c27a-170c-4d66-9556-597889a2da44)
