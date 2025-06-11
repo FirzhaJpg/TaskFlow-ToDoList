@@ -53,10 +53,7 @@ This application is a to-do list with a calendar view that allows users to:
 
 ---
 
-Let me know if you want to add a screenshot, demo video, or instructions for building APKs or connecting iOS!
-
-
-## f. Screenshot gambar aplikasi
+## f. Screenshot from App
 ![Screenshot 2025-06-10 195546](https://github.com/user-attachments/assets/b113c27a-170c-4d66-9556-597889a2da44)
 ![Screenshot 2025-06-10 195634](https://github.com/user-attachments/assets/3050027a-bf25-4bf1-84fa-66f5d05b52a6)
 ![Screenshot 2025-06-10 195646](https://github.com/user-attachments/assets/4f5aad1c-e5b1-48ce-b946-c3ce327de220)
