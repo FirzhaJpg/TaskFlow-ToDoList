@@ -1,7 +1,8 @@
 # TaskFlow-ToDoList
 
-## a. Nama
-Muhammad Firzha Rasyid
+## a. Nama Developer
+- Muhammad Firzha Rasyid (Back-End Programmer)
+- Waode Lubna (UI/UX Designer)
 
 ## b. Judul Project
 To-Do List Kalender Berbasis Flutter dengan Firebase
